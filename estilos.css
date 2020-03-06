@@ -30,3 +30,15 @@ body{
 .header2{
     background-color: blue;
 }
+
+.imagenfondo{
+    background-image: url(img/medellin.jpg);
+    height: 700px;
+    background-attachment: fixed;
+}
+
+.textorojo{
+    color:red;
+}
+
+
