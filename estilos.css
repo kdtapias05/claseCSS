@@ -41,4 +41,15 @@ body{
     color:red;
 }
 
+table, td{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+tr:hover{
+    background-color: aqua;
+
+}
+
+
 
